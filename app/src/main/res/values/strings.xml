@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="letsgrowmore_lgm">LetsGrowMore(LGM)</string>
+    <string name="face_detector">Face Detector</string>
+    <string name="detect">DETECT</string>
+</resources>
